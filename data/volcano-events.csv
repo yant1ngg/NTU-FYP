@@ -1,0 +1,309 @@
+Search Parameters,Year,Mo,Dy,Tsu,Eq,Name,Location,Country,Latitude,Longitude,Elevation (m),Type,VEI,Agent,Deaths,Death Description,Missing,Missing Description,Injuries,Injuries Description,Damage ($Mil),Damage Description,Houses Destroyed,Houses Destroyed Description,Total Deaths,Total Death Description,Total Missing,Total Missing Description,Total Injuries,Total Injuries Description,Total Damage ($Mil),Total Damage Description,Total Houses Destroyed,Total Houses Destroyed Description
+"[""111 <= Year >= 2011"",""-30 <= Latitude >= 30""]",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,200,,,,,"Arhab, Harra of",Arabia-S,Yemen,15.603,44.098,3100,Volcanic field,,,,,,,,,,1,,,,,,,,,,1,,
+,416,,,39,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,,W,,1,,,,,,1,,,,3,,,,,,4,,
+,500,,,,,"Arhab, Harra of",Arabia-S,Yemen,15.603,44.098,3100,Volcanic field,,,,,,,,,,1,,,,,,,,,,1,,
+,640,,,,,"Uwayrid, Harrat",Arabia-W,Saudi Arabia,27.08,37.25,1920,Volcanic field,2,T,,1,,,,,,,,,,1,,,,,,,,
+,653,,,,,Dakataua,New Britain-SW Pac,Papua New Guinea,-5.046,150.1,408,Caldera,6,,,,,,,,,,,,,,,,,,,,,
+,683,,,,,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,6,,,,,,,,,1,,,,,,,,,,,,
+,710,,,,,Witori,New Britain-SW Pac,Papua New Guinea,-5.575,150.516,724,Caldera,6,,,,,,,,,,,,,,,,,,,,,
+,1250,,,,,Fentale,Africa-NE,Ethiopia,8.985,39.906,2007,Stratovolcano,,,,,,,,,,1,,,,,,,,,,,,
+,1311,,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1334,,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,M,,1,,,,,,,,,,1,,,,,,,,
+,1376,,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1385,,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1430,,,,,Kuwae,Vanuatu-SW Pacific,Vanuatu,-16.83,168.523,-2,Caldera,,P,,3,,,,,,,,,,3,,,,,,,,
+,1550,11,,,,Dukono,Halmahera-Indonesia,Indonesia,1.699,127.878,1273,Complex volcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1550,,,5863,,Kie Besi,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,3,,,,,,,,,1,,,,,,,,,,1,,
+,1564,12,31,,,Gamkonora,Halmahera-Indonesia,Indonesia,1.38,127.53,1635,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1568,,,,,Savo,Solomon Is-SW Pacifi,Solomon Is.,-9.13,159.82,485,Stratovolcano,3,"P,T,M",1001,4,,,,,,,,,1001,4,,,,,,,,
+,1572,,,,,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,3,L,,,,,,,,2,,,,,,,,,,2,,
+,1580,,,,,Billy Mitchell,Bougainville-SW Paci,Papua New Guinea,-6.09,155.225,1544,Pyroclastic shield,6,,,,,,,,,,,,,,,,,,,,,
+,1586,,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,5,,10000,4,,,,,,,,,10000,4,,,,,,,,
+,1587,,,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,4,,,1,,,,,,,,,,1,,,,,,,,
+,1593,,,,,Raung,Java,Indonesia,-8.119,114.056,3260,Stratovolcano,5,,,3,,,,,,,,,,3,,,,,,,,
+,1597,,,,,Raung,Java,Indonesia,-8.119,114.056,3260,Stratovolcano,3,T,,1,,,,,,,,,,1,,,,,,,,
+,1598,,,,,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,3,,,1,,,,,,,,,,1,,,,,,,,
+,1608,7,18,222,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,3,,,,,,,,,1,,,,1,,,,,,1,,
+,1609,,,,,Tengchong,China-S,China,25.23,98.5,2865,Pyroclastic cone,,E,,1,,,,,,,,,,1,,,,,,,,
+,1615,3,,,,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,3,,,,,,,,,2,,2,,,,,,,,2,,2
+,1631,2,14,,920,Dama Ali,Africa-NE,Ethiopia,11.28,41.63,1068,Shield volcano,,S,50,1,,,,,,2,,,50,1,,,,,,2,,
+,1638,,,,,Raung,Java,Indonesia,-8.119,114.056,3260,Stratovolcano,4,M,1001,4,,,,,,,,,1001,4,,,,,,,,
+,1646,7,19,5754,10519,Kie Besi,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,P,,3,,,,,,,,,,3,,,,,,,,
+,1659,11,11,285,,Teon,Banda Sea,Pacific Ocean,-6.976,129.144,728,Stratovolcano,4,,,,,,,,,,,,,,,,,,,,,
+,1660,2,,,,Teon,Banda Sea,Pacific Ocean,-6.976,129.144,728,Stratovolcano,4,"G,T",3,1,,,,,,,,,3,1,,,,,,,,
+,1660,,,5482,,Long Island,New Guinea-NE of,Papua New Guinea,-5.358,147.12,1280,Complex volcano,6,"T,P,W,I",2000,4,,,,,,3,,3,2000,4,,,,,,3,,3
+,1664,,,293,,Io-Torishima,Ryukyu Is,Japan,27.881,128.223,212,Complex volcano,,A,,1,,,,,,,,,,1,,,,,,1,,1
+,1670,,,,,Ambae,Vanuatu-SW Pacific,Vanuatu,-15.389,167.835,1496,Shield volcano,2,L,,3,,,,,,,,,,3,,,,,,,,
+,1672,8,4,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,P,3000,4,,,,,,,,,3000,4,,,,,,,,
+,1673,5,20,312,,Gamkonora,Halmahera-Indonesia,Indonesia,1.38,127.53,1635,Stratovolcano,5,W,,,,,,,,1,,1,,3,,,,,,1,,1
+,1679,9,21,,8202,Zukur,Red Sea,Yemen,14.02,42.75,624,Shield volcano,,,,,,,,,,,,,,,,,,,,,,
+,1690,,,,,Guntur,Java,Indonesia,-7.143,107.841,2251,Complex volcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1692,6,4,,,Serua,Banda Sea,Pacific Ocean,-6.312,130.017,608,Stratovolcano,4,L,,2,,,,,,,,,,2,,,,,,,,
+,1694,11,20,,,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,3,,,2,,,,,,,,,,2,,,,,,,,
+,1698,,,,,Ciremai,Java,Indonesia,-6.895,108.408,3039,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1711,12,11,,,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,3,P,3000,4,,,,,,,,,3000,4,,,,,,,,
+,1716,7,20,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,2,M,,1,,,,,,,,,,1,,,,,,,,
+,1716,9,24,387,1205,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,4,,,1,,,,,,,,,,1,,,,,,3,,3
+,1730,,,,,Raung,Java,Indonesia,-8.119,114.056,3260,Stratovolcano,3,"M,T",,3,,,,,,,,,,3,,,,,,,,
+,1749,8,11,431,1304,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,3,,,1,,,,,,1,,,,1,,,,,,3,,3
+,1754,11,28,2853,1328,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,4,"W,T",,1,,,,,,4,,4,12,1,,,,,,4,,4
+,1760,,,,,Kie Besi,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,M,2000,4,,,,,,,,,2000,4,,,,,,,,
+,1766,7,20,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,m,49,1,,,,,,,,,49,1,,,,,,,,
+,1770,,,500,9532,Dempo,Sumatra,Indonesia,-4.016,103.121,3142,Stratovolcano,,,,,,,,,,,,,,,,,,,,3,,3
+,1772,5,9,504,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,3,T,35,1,,,,,,,,,35,1,,,,,,,,
+,1772,8,12,,,Papandayan,Java,Indonesia,-7.32,107.73,2665,Stratovolcano,3,A,2957,4,,,,,,,,3,2957,4,,,,,,,,3
+,1773,2,2,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,2,I,,2,,,,,,,,,,2,,,,,,,,
+,1775,,,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,3,"P,I",1300,4,,,,,,,,,1300,4,,,,,,,,
+,1775,,,,,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1786,,,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,2,A,38,1,,,,,,,,2,38,1,,,,,,,,2
+,1800,10,8,,,Guntur,Java,Indonesia,-7.143,107.841,2251,Complex volcano,,M,,3,,,,,,,,,,3,,,,,,,,
+,1800,10,30,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1800,,,,,Kyejo,Africa-E,Tanzania,-9.229,33.792,2176,Stratovolcano,2,L,,3,,,,,,3,,,,3,,,,,,3,,
+,1812,8,6,,,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,3,"P,M",953,3,,,,,,,,,953,3,,,,,,,,
+,1814,2,1,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,4,"P,M,E",1200,4,,,,,,3,,3,1200,4,,,,,,3,,3
+,1815,4,10,613,,Tambora,Lesser Sunda Is,Indonesia,-8.25,118,2850,Stratovolcano,7,"P,W,A,I",11000,4,,,,4,,4,,4,60000,4,,,,4,,4,,4
+,1817,1,24,,,Ijen,Java,Indonesia,-8.058,114.242,2769,Stratovolcano,2,M,,2,,,,,,,90,2,,2,,,,,,,90,2
+,1817,,,,,Raung,Java,Indonesia,-8.119,114.056,3260,Stratovolcano,4,,,1,,,,,,,,,,1,,,,,,,,
+,1819,,,623,,Asuncion,Mariana Is-C Pacific,United States,19.671,145.406,857,Stratovolcano,,,,,,,,,,,,,,,,,,,,,,
+,1820,6,11,,,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,2,,,1,,,,,,,,,,1,,,,,,,,
+,1822,10,8,,,Galunggung,Java,Indonesia,-7.25,108.058,2168,Stratovolcano,5,"P,M",4011,4,,,,,,3,,3,4011,4,,,,,,3,,3
+,1822,12,27,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,,100,2,,,,2,,3,,3,100,2,,,,2,,3,,3
+,1825,,,,,Balbi,Bougainville-SW Paci,Papua New Guinea,-5.916,155.001,2715,Stratovolcano,,P,,3,,,,,,,,,,3,,,,,,,,
+,1826,10,11,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,2,,,2,,,,,,,,,,2,,,,,,,,
+,1826,10,13,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,4,M,,1,,,65,2,,3,,3,,1,,,65,2,,3,,3
+,1829,,,,,Guntur,Java,Indonesia,-7.143,107.841,2251,Complex volcano,2,,,3,,,,,,,,,,3,,,,,,,,
+,1832,12,25,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,,32,1,,,,,,,,2,32,1,,,,,,,,2
+,1833,11,24,,,Kaba,Sumatra,Indonesia,-3.522,102.615,1940,Stratovolcano,2,M,126,3,,,,,,,,,126,3,,,,,,,,
+,1835,11,1,,1787,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,,,,3,,,,,,2,,2,,3,,,,,,2,,2
+,1837,9,,706,6050,Peuet Sague,Sumatra,Indonesia,4.903,96.289,2785,Complex volcano,,,,,,,,,,,,,,,,,,,,,,
+,1838,2,26,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,2,T,4,1,,,,,,,,,4,1,,,,,,,,
+,1840,2,2,718,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,3,,,,,,,,,1,,,,,,,,,,2,500,3
+,1840,,,,,Savo,Solomon Is-SW Pacifi,Solomon Is.,-9.13,159.82,485,Stratovolcano,3,P,,3,,,,,,,,,,3,,,,,,,,
+,1840,,,,,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.386,165.804,796,Stratovolcano,3,P,,3,,,,,,,,,,3,,,,,,,,
+,1843,8,,,,Lamongan,Java,Indonesia,-7.981,113.341,1641,Stratovolcano,2,,4,1,,,,,,,,,4,1,,,,,,,,
+,1845,2,8,741,1865,Soputan,Sulawesi-Indonesia,Indonesia,1.112,124.737,1785,Stratovolcano,2,,,,,,,,,,,,118,3,,,,,,2,,3
+,1846,5,27,,,Tangkuban Parahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1847,12,4,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,2,,,2,,,,,,,,,,2,,,,,,,,
+,1848,5,16,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,M,21,1,,,,,,,800,3,22,1,,,,,,,800,3
+,1850,,,,,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,2,T,,3,,,,,,,,,,3,,,,,,,,
+,1853,7,13,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,34,1,,,,,,,,1,34,1,,,,,,,,1
+,1853,10,29,809,,Unnamed,Taiwan-E of,Taiwan,24,121.83,0,Submarine volcano,2,,,,,,,,,,,,,,,,,,,,,
+,1856,3,2,859,1995,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,3,P,2806,4,,,,2,,3,,3,2806,4,,,,2,,3,,3
+,1857,4,17,869,6125,Umboi,New Guinea-NE of,Papua New Guinea,-5.592,147.892,1335,Complex volcano,,,,,,,,,,,,,,2,,,,,,2,,2
+,1858,1,,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,P,,1,,,,,,,,,,1,,,,,,,,
+,1860,4,,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,,,1
+,1861,5,7,,2049,Dubbi,Africa-NE,Eritrea,13.579,41.809,1625,Stratovolcano,3,,106,3,,,,,,3,,3,106,3,,,,,,3,,3
+,1861,12,29,,,Kie Besi,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,4,"P,I",326,3,,,47,1,,,,3,326,3,,,47,1,,,,3
+,1863,8,17,929,6150,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.532,169.447,361,Stratovolcano,,,,3,,,,,,,,,,3,,,,,,,,
+,1864,1,3,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,2,M,54,2,,,,,,,,3,54,2,,,,,,,,3
+,1869,7,7,,,Lewotobi,Lesser Sunda Is,Indonesia,-8.542,122.775,1703,Stratovolcano,2,,2,1,,,,,,,,,2,1,,,,,,,,
+,1869,8,,,,Lamongan,Java,Indonesia,-7.981,113.341,1641,Stratovolcano,2,"T,A",8,1,,,,,,,,,8,1,,,,,,,,
+,1870,8,,,,Ruang,Sangihe Is-Indonesia,Indonesia,2.3,125.37,725,Stratovolcano,2,,,1,,,,,,,40,1,,1,,,,,,,40,1
+,1870,,,,,Iliwerung,Lesser Sunda Is,Indonesia,-8.532,123.573,583,Complex volcano,3,,,1,,,,,,,,,,1,,,,,,,,
+,1870,,,,,Ambae,Vanuatu-SW Pacific,Vanuatu,-15.389,167.835,1496,Shield volcano,2,M,100,3,,,,,,3,,3,100,3,,,,,,3,,3
+,1871,3,3,1022,,Ruang,Sangihe Is-Indonesia,Indonesia,2.3,125.37,725,Stratovolcano,2,W,,,,,,,,1,,1,400,3,,,,,,2,75,2
+,1871,4,30,1020,2179,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1552,Stratovolcano,2,,,1,,,,,,3,,3,,1,,,,,,3,,3
+,1871,8,7,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,2,T,1,1,,,1,1,,,,,1,1,,,1,1,,,,
+,1871,12,8,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,3,1,,,,,,,,,3,1,,,,,,,,
+,1872,4,15,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,4,T,30,1,,,,1,,,50,1,30,1,,,,1,,,50,1
+,1872,4,17,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,4,P,170,3,,,,,,,,2,170,3,,,,,,,,2
+,1872,11,3,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,4,"P,T",200,3,,,,,,3,,3,200,3,,,,,,3,,3
+,1873,1,16,,,Ragang,Mindanao-Philippines,Philippines,7.691,124.507,2790,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1874,7,19,,,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1875,1,29,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,0,m,,1,,,,,,2,,2,,1,,,,,,2,,2
+,1875,,,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,m,1500,4,,,,,,,,,1500,4,,,,,,,,
+,1878,1,10,1086,,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.532,169.447,361,Stratovolcano,3,,,,,,,,,,,,,,,,,,,1,,
+,1878,1,,1095,6195,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,3,T,1,1,,,,,,,,,1,1,,,,,,,,
+,1878,2,11,1096,6625,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.532,169.447,361,Stratovolcano,,,,,,,,,,,,,,,,,,,,,,
+,1883,3,,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,L,,3,,,,,,3,,,,3,,,,,,3,,
+,1883,8,27,1142,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,6,"W,P,I",2000,4,,,,3,,3,,3,36417,4,,,,3,,3,,3
+,1883,10,10,1144,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,,,,,,,,,,,,,,,,,,,,,,
+,1883,12,,,,Bagana,Bougainville-SW Paci,Papua New Guinea,-6.137,155.196,1855,Lava cone,3,T,,2,,,,,,,,,,2,,,,,,,,
+,1884,2,,1145,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,,,,,,,,,,,,,,,,,,,,,,
+,1885,4,18,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,A,74,2,,,,,,,,,74,2,,,,,,,,
+,1887,3,9,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,T,15,1,,,,,,1,,1,15,1,,,,,,1,,1
+,1888,3,13,1175,,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.519,148.115,75,Stratovolcano,2,W,,,,,,,,,,,,4,,,,,,3,,3
+,1889,9,6,1181,6309,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,2,,,,,,,,,,,,,,,,,,,2,,2
+,1890,6,29,,,Kie Besi,Halmahera-Indonesia,Indonesia,0.32,127.4,1357,Stratovolcano,2,,,,,,,,,3,,3,,,,,,,,3,,3
+,1890,,,,,Victory,New Guinea,Papua New Guinea,-9.2,149.072,1832,Stratovolcano,2,P,,3,,,,,,,,,,3,,,,,,,,
+,1892,5,21,,,Sorikmarapi,Sumatra,Indonesia,0.686,99.539,2145,Stratovolcano,2,M,180,3,,,,,,,,,180,3,,,,,,,,
+,1892,6,7,1197,,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,3,"P,M",1532,4,,,,,,3,,3,1532,4,,,,,,3,,3
+,1894,10,,,,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,3,"T,L",10,1,,,,,,,,,10,1,,,,,,,,
+,1895,5,22,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,,,1,,,,,,1,,,,1,,,,,,1,,
+,1895,6,17,,,Karkar,New Guinea-NE of,Papua New Guinea,-4.647,145.976,1839,Stratovolcano,2,"I,M",1,1,,,,,,,,,21,1,,,,,,,,
+,1895,,,,,Dakataua,New Britain-SW Pac,Papua New Guinea,-5.046,150.1,408,Caldera,2,?,,1,,,,,,1,,,,1,,,,,,1,,
+,1897,3,26,5629,,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.386,165.804,796,Stratovolcano,2,W,,,,,,,,,,,,,,,,,,1,,1
+,1897,5,23,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,"P,T,M",350,3,,,,,,,,,350,3,,,,,,,,
+,1899,,,,,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,2,,2,1,,,,,,,,,2,1,,,,,,,,
+,1900,,,,,Bora-Bericha-Tullu Moye,Africa-NE,Ethiopia,8.211,39.081,2345,Pumice cone,,,,,,,,,,1,,,,,,,,,,,,
+,1901,5,22,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,,,2,,,,,,,,,,2,,,,,,,,
+,1901,8,9,1280,2595,East Epi,Vanuatu-SW Pacific,Vanuatu,-16.68,168.389,833,Stratovolcano,,W,,,,,,,,,,,,1,,,,,,2,,
+,1902,12,,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,P,16,1,,,45,1,,,,2,16,1,,,45,1,,,,2
+,1903,,,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,,G,17,1,,,,,,,,,17,1,,,,,,,,
+,1904,2,25,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,L,1,1,,,,,,1,,,1,1,,,,,,1,,
+,1907,8,4,,,Alayta,Africa-NE,Ethiopia,12.888,40.573,1496,Shield volcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1907,9,28,,,Lewotobi,Lesser Sunda Is,Indonesia,-8.542,122.775,1703,Stratovolcano,2,,1,1,,,,1,,,,,1,1,,,,1,,,,
+,1909,9,,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,m,221,3,,,,,,1,,,221,3,,,,,,1,,
+,1911,1,30,1392,8391,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,3,"P,W",1335,4,,,199,3,,3,543,3,1335,4,,,199,3,,3,543,3
+,1911,11,8,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,,,,,,,,,1,,,,,,,,,,1,,
+,1913,3,14,1407,2973,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,2,,,,,,,,,,,,138,3,,,,2,,2,,3
+,1913,6,23,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1913,12,6,,,Ambrym,Vanuatu-SW Pacific,Vanuatu,-16.25,168.12,1334,Pyroclastic shield,3,T,21,1,,,,,,3,,,21,1,,,,,,3,,
+,1914,1,18,,,Witori,New Britain-SW Pac,Papua New Guinea,-5.575,150.516,724,Caldera,3,I,,1,,,,,,,,,,1,,,,,,,,
+,1914,,,,,Ambae,Vanuatu-SW Pacific,Vanuatu,-15.389,167.835,1496,Shield volcano,,L,100,2,,,,,,,,,100,2,,,,,,,,
+,1917,1,1,,,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.764,35.914,2962,Stratovolcano,3,,,,,,,,,1,,,,,,,,,,1,,
+,1918,7,18,1454,,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,3,,,,,,,,,,,,,,,,,,,,,
+,1919,4,3,3511,,Banua Wuhu,Sangihe Is-Indonesia,Indonesia,3.138,125.491,-5,Submarine volcano,3,,,,,,,,,1,,1,,,,,,,,1,,1
+,1919,5,19,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,4,M,5110,4,,,,,,,9000,4,5110,4,,,,,,,9000,4
+,1920,7,25,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,P,33,1,,,,,,,,,33,1,,,,,,,,
+,1923,3,2,5720,10435,"Cendres, Ile des",SE Asia,Vietnam,10.158,109.014,-20,Submarine volcanoes,2,L,,,,,,,,,,,,,,,,,,1,,
+,1923,3,11,,,Papandayan,Java,Indonesia,-7.32,107.73,2665,Stratovolcano,1,G,1,1,,,,,,,,,1,1,,,,,,,,
+,1923,6,,,,Tangkuban Parahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,,G,3,1,,,,,,,,,3,1,,,,,,,,
+,1928,1,,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,P,,1,,,,,,,,,,1,,,,,,,,
+,1928,3,26,1593,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,2,,,,,,,,,,,,,,,,,,,,,
+,1928,5,13,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,2,T,40,1,,,,,,,,,40,1,,,,,,,,
+,1928,8,4,1607,,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3,"W,T",98,2,,,,,,1,,,226,3,,,200,3,,2,,2
+,1930,3,17,1624,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,2,,,,,,,,,,,,,,,,,,,,,
+,1930,12,18,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,"P,M",1369,4,,,,,,3,1109,4,1369,4,,,,,,3,1109,4
+,1932,2,,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,,m,,1,,,,,,,,,,1,,,,,,,,
+,1933,12,25,1666,,Bulusan,Luzon-Philippines,Philippines,12.769,124.056,1535,Stratovolcano,2,,,,,,,,,,,,9,1,,,,,,3,,
+,1937,5,29,1698,10010,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,4,"P,T,W,I",507,3,,,,,,1,,1,507,3,,,,,,1,,1
+,1938,6,5,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1939,10,13,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,1,T,10,1,,,,,,1,,,10,1,,,,,,1,,
+,1940,6,20,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,2,,1,1,,,2,1,,,,,1,1,,,2,1,,,,
+,1940,7,24,,,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.764,35.914,2962,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1941,9,21,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1944,12,4,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,2,T,117,3,,,250,3,,,,,117,3,,,250,3,,,,
+,1946,2,,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,F,6,1,,,,,,2,81,2,6,1,,,,,,2,81,2
+,1946,10,29,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1947,1,7,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,,,1,,,,,,,,,,1,,,,,,,,
+,1948,4,7,,,Iliwerung,Lesser Sunda Is,Indonesia,-8.532,123.573,583,Complex volcano,2,,,,,,,,,2,,,,,,,,,,2,,
+,1949,6,,,,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1552,Stratovolcano,3,P,2,1,,,,,,,,,2,1,,,,,,,,
+,1950,8,28,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,1,P,6,1,,,,,,,,,6,1,,,,,,,,
+,1950,9,15,,,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1552,Stratovolcano,3,P,68,2,,,,,,,,,68,2,,,,,,,,
+,1951,1,21,,,Lamington,New Guinea,Papua New Guinea,-8.95,148.15,1680,Stratovolcano,4,P,2942,4,,,,2,,,,,2942,4,,,,2,,,,
+,1951,8,31,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,3,,7,1,,,,,,,,,7,1,,,,,,,,
+,1951,12,4,,,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1552,Stratovolcano,3,P,500,3,1500,4,,,,,,,500,3,1500,4,,,,,,
+,1951,,,1816,,Kavachi,Solomon Is-SW Pacifi,Solomon Is.,-8.991,157.979,-20,Submarine volcano,2,,,,,,,,,,,,,,,,,,,,,
+,1952,,,,,Ambalatungan Group,Luzon-Philippines,Philippines,17.32,121.1,2329,Compound volcano,1,,12,1,,,,,,,,,12,1,,,,,,,,
+,1953,3,23,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,P,64,2,,,57,2,,2,144,3,64,2,,,57,2,,2,144,3
+,1953,6,27,1838,,St. Andrew Strait,Admiralty Is-SW Paci,Papua New Guinea,-2.38,147.35,270,Complex volcano,0,,,,,,,,,,,,,,,,,,,1,,
+,1953,6,,,,Sirung,Lesser Sunda Is,Indonesia,-8.497,124.131,1347,Complex volcano,0,,5,1,,,1,1,,,,,5,1,,,1,1,,,,
+,1954,8,3,,,Bam,New Guinea-NE of,Papua New Guinea,-3.613,144.818,685,Stratovolcano,2,I,,,,,,2,,,,,25,1,,,,2,,,,
+,1954,,,,,Camiguin,Mindanao-Philippines,Philippines,9.203,124.673,1552,Stratovolcano,,m,2,1,,,,,,,,,2,1,,,,,,,,
+,1958,7,12,,,Mahawu,Sulawesi-Indonesia,Indonesia,1.352,124.865,1299,Stratovolcano,2,M,1,1,,,10,1,,,,,1,1,,,10,1,,,,
+,1958,10,7,1882,,Kuwae,Vanuatu-SW Pacific,Vanuatu,-16.83,168.523,-2,Caldera,2,,,,,,,,,,,,,,,,,,,,,
+,1961,5,8,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,P,6,1,,,6,1,,2,,3,6,1,,,6,1,,2,,3
+,1962,10,,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,,m,2,1,,,,,,,,,2,1,,,,,,,,
+,1962,12,31,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,2,,5,1,,,5,1,,,,,5,1,,,5,1,,,,
+,1963,3,18,1942,,Agung,Lesser Sunda Is,Indonesia,-8.343,115.508,2997,Stratovolcano,5,"P,T,M,A",1028,4,,3,624,3,,,,,1028,4,,3,624,3,,,,
+,1963,5,5,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,T,1,1,,,,,,,,,1,1,,,,,,,,
+,1963,5,16,,4292,Agung,Lesser Sunda Is,Indonesia,-8.343,115.508,2997,Stratovolcano,3,,120,2,,,,,,,,,120,2,,,,,,,,
+,1963,9,5,,,Batur,Lesser Sunda Is,Indonesia,-8.24,115.378,1711,Caldera,2,,2,1,,,,,,,,1,2,1,,,,,,,,1
+,1964,1,1,,,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,2,,1,1,,,3,1,,,,,1,1,,,3,1,,,,
+,1964,12,13,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,1,,114,3,,,,,,,,,114,3,,,,,,,,
+,1965,9,28,1977,,Taal,Luzon-Philippines,Philippines,14.011,120.998,311,Stratovolcano,4,"P,W",355,3,,,,,,1,,1,355,3,,,,,,1,,1
+,1966,1,13,5478,,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.386,165.804,796,Stratovolcano,3,,,,,,,,,,,,,,,,,,,,,
+,1966,4,26,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,4,"M,m,P",215,3,78,2,86,2,,,,,215,3,78,2,86,2,,,,
+,1966,8,12,,,Awu,Sangihe Is-Indonesia,Indonesia,3.689,125.447,1318,Stratovolcano,4,"P,M,I",39,1,,,1000,3,,,,2,39,1,,,1000,3,,,,2
+,1966,8,14,,,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.764,35.914,2962,Stratovolcano,4,,,,,,,,,1,,,,,,,,,,1,,
+,1967,7,8,,,"Lengai, Ol Doinyo",Africa-E,Tanzania,-2.764,35.914,2962,Stratovolcano,3,,,,,,,,,1,,,,,,,,,,1,,
+,1967,8,31,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,M,3,1,,,,,,1,,,3,1,,,,,,1,,
+,1968,4,21,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,"M,P",6,1,,,,,,,,,6,1,,,,,,,,
+,1969,1,7,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,P,3,1,,,,,,,,,3,1,,,,,,,,
+,1969,1,28,,,Iya,Lesser Sunda Is,Indonesia,-8.891,121.641,618,Stratovolcano,3,"T,m",2,1,,,10,1,,,287,3,2,1,,,10,1,,,287,3
+,1969,3,21,2872,,Didicas,Luzon-N of,Philippines,19.077,122.202,228,Compound volcano,2,W,,,,,,,,,,,3,1,,,,,,,,
+,1971,9,6,2043,,Tinakula,Santa Cruz Is-SW Pac,Solomon Is.,-10.386,165.804,796,Stratovolcano,2,,,,,,,,,,,,,,,,,,,,,
+,1972,6,9,,,"Fournaise, Piton de la",Indian O-W,Reunion,-21.244,55.708,2632,Shield volcano,2,I,3,1,,,,,,,,,3,1,,,,,,,,
+,1972,10,9,2054,,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.519,148.115,75,Stratovolcano,1,,,,,,,,,,,,,,,,,,,,,
+,1973,1,,,,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,3,,,,,,,,,1,,1,,,,,,,,1,,1
+,1973,12,,5761,,Iliwerung,Lesser Sunda Is,Indonesia,-8.532,123.573,583,Complex volcano,2,W,,,,,,,,,,,2,1,,,,,,,,
+,1974,2,11,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,3,A,4,1,,,,,,,,,4,1,,,,,,,,
+,1974,10,17,2069,,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.519,148.115,75,Stratovolcano,1,,,,,,,,,,,,,,,,,,,,,
+,1974,10,22,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,M,9,1,,,,,,,6,1,9,1,,,,,,,6,1
+,1975,1,,,,Marapi,Sumatra,Indonesia,-0.38,100.474,2885,Complex volcano,2,M,80,2,,,,,,3,,3,80,2,,,,,,3,,3
+,1976,8,31,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,2,M,119,3,,,,,,,,,119,3,,,,,,,,
+,1976,9,15,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,2,"P,L",1,1,,,1,1,,,24,1,1,1,,,1,1,,,24,1
+,1976,11,25,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,M,29,1,,,,,,,,,29,1,,,,,,,,
+,1977,4,5,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,1,L,,,,,,,,1,293,3,,,,,,,,1,293,3
+,1978,7,29,,,Bulusan,Luzon-Philippines,Philippines,12.769,124.056,1535,Stratovolcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1978,9,19,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,M,12,1,,,,,,,,,12,1,,,,,,,,
+,1978,,,,,Tangkuban Parahu,Java,Indonesia,-6.77,107.6,2084,Stratovolcano,,I,3,1,,,,,,,,,3,1,,,,,,,,
+,1979,2,20,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,1,G,149,3,,,,,,,,,149,3,,,,,,,,
+,1979,3,8,,,Karkar,New Guinea-NE of,Papua New Guinea,-4.647,145.976,1839,Stratovolcano,2,P,2,1,,,,,,,,,2,1,,,,,,,,
+,1979,7,18,2115,,Iliwerung,Lesser Sunda Is,Indonesia,-8.532,123.573,583,Complex volcano,,W,,,,,,,,,,,1239,4,,,32,1,,3,,3
+,1981,3,29,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,P,1,1,,,,,,,,,1,1,,,,,,,,
+,1981,5,14,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,m,372,3,120,3,152,3,,,,,372,3,120,3,152,3,,,,
+,1981,6,30,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,,m,200,3,,,,,,,,,200,3,,,,,,,,
+,1981,9,5,,,Paluweh,Lesser Sunda Is,Indonesia,-8.32,121.708,875,Stratovolcano,2,P,,,,,,,,1,,1,,,,,,,,1,,1
+,1981,10,20,5759,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,1,"A,T,W",,,,,,,,,,,,,,,,,,,,
+,1982,5,17,,,Galunggung,Java,Indonesia,-7.25,108.058,2168,Stratovolcano,4,"I,T",68,2,,,,,15,3,,,68,2,,,,,15,3,,
+,1983,7,23,,,Colo,Sulawesi-Indonesia,Indonesia,-0.162,121.601,404,Stratovolcano,4,,,,,,,,,2,,3,,,,,,,,2,,3
+,1983,8,17,4702,,Iliwerung,Lesser Sunda Is,Indonesia,-8.532,123.573,583,Complex volcano,1,W,,,,,,,,,,,,,,,,,,,,
+,1984,9,9,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,3,M,1,1,,,,,,,,,1,1,,,,,,,,
+,1985,5,10,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,A,70,2,,,,,,,,,70,2,,,,,,,,
+,1986,10,15,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,M,1,1,,,,,,,,,1,1,,,,,,,,
+,1987,12,1,,5150,Sirung,Lesser Sunda Is,Indonesia,-8.497,124.131,1347,Complex volcano,,,,,,,,,,,,,125,3,,,,3,5,3,237,3
+,1988,5,9,,,Banda Api,Banda Sea,Pacific Ocean,-4.523,129.881,596,Caldera,3,"T,L",4,1,,,,,,,,,4,1,,,,,,,,
+,1988,7,30,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,T,1,1,,,,,,,,,1,1,,,,,,,,
+,1990,2,10,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,4,"T,P",35,1,,,,,,,,,35,1,,,,,,,,
+,1990,6,24,,,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,,G,6,1,,,,,,,,,6,1,,,,,,,,
+,1990,11,25,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,,m,4,1,,,,,,,,,4,1,,,,,,,,
+,1991,6,15,,5292,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,6,"P,m,I",350,3,,,4,1,,3,,,800,3,,,4,1,,3,,
+,1991,7,3,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,2,,,,,,,,,1,,,,,,,,,,1,,
+,1991,10,24,,,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,1,"T,P",1,1,,,,,,,,,1,1,,,,,,,,
+,1992,1,21,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,2,M,2,1,,,,,,,,,2,1,,,,,,,,
+,1992,3,18,,,Dieng Volcanic Complex,Java,Indonesia,-7.2,109.879,2565,Complex volcano,,G,1,1,,,2,1,,,,,1,1,,,2,1,,,,
+,1992,5,11,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,1,P,6,1,,,1,1,,,,,6,1,,,1,1,,,,
+,1992,7,5,,,Marapi,Sumatra,Indonesia,-0.38,100.474,2885,Complex volcano,2,T,1,1,,,5,1,,,,,1,1,,,5,1,,,,
+,1992,7,12,,,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,1,m,6,1,,,,,,,,,6,1,,,,,,,,
+,1992,,,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,T,3,1,,,,,,,,,3,1,,,,,,,,
+,1993,1,21,,,Wurlali,Banda Sea,Indonesia,-7.125,128.675,868,Stratovolcano,,m,1,1,,,12,1,,,,,1,1,,,12,1,,,,
+,1993,2,2,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,2,P,75,2,,,,,,,,,75,2,,,,,,,,
+,1993,6,13,,,Krakatau,Indonesia,Indonesia,-6.101,105.423,285,Caldera,1,T,1,1,,,5,1,,,,,1,1,,,5,1,,,,
+,1993,6,26,,,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,1,m,4,1,,,,,,,,,4,1,,,,,,,,
+,1993,10,4,,,Pinatubo,Luzon-Philippines,Philippines,15.13,120.35,1486,Stratovolcano,,m,14,1,,,,,,,,,14,1,,,,,,,,
+,1994,1,15,,,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.532,169.447,361,Stratovolcano,3,T,1,1,,,,,,,,,1,1,,,,,,,,
+,1994,2,3,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,P,6,1,,,,,,,,,6,1,,,,,,,,
+,1994,9,18,5927,10747,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,,"W,S",,,,,,,,,,,,,,,,,,,,
+,1994,9,19,2229,,Rabaul,New Britain-SW Pac,Papua New Guinea,-4.246,152.194,688,Pyroclastic shield,3,"T,W",4,1,,,,,86,4,,,4,1,,,,,86,4,,1
+,1994,11,3,,,Rinjani,Lesser Sunda Is,Indonesia,-8.42,116.47,3726,Stratovolcano,3,m,31,1,,,,,,,,,31,1,,,,,,,,
+,1994,11,22,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,3,,60,2,,,,,,,,,60,2,,,,,,,,
+,1995,2,4,,,Yasur,Vanuatu-SW Pacific,Vanuatu,-19.532,169.447,361,Stratovolcano,3,T,2,1,,,,,,,,,2,1,,,,,,,,
+,1995,5,15,,,Kelimutu,Lesser Sunda Is,Indonesia,-8.77,121.82,1639,Complex volcano,,,1,1,,,,,,,,,1,1,,,,,,,,
+,1995,9,6,,,Melebingoy,Mindanao-Philippines,Philippines,6.113,124.892,1824,Stratovolcano,,,60,2,,,,,,2,300,3,60,2,,,,,,2,300,3
+,1996,8,10,,,Kanlaon,Philippines-C,Philippines,10.41,123.13,2422,Stratovolcano,2,T,3,1,,,18,1,,,,,3,1,,,18,1,,,,
+,1996,12,3,,,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,3,P,13,1,,,29,1,,,,,13,1,,,29,1,,,,
+,1997,1,14,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,,6,1,,,,1,,,,,6,1,,,,1,,,,
+,1997,4,17,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,1,P,3,1,,,,,,,,,3,1,,,,,,,,
+,1997,9,2,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,T,2,1,,,,,,,,,2,1,,,,,,,,
+,1998,7,,,,Kelud,Java,Indonesia,-7.935,112.314,1730,Stratovolcano,,m,10,1,,,,,,,,,10,1,,,,,,,,
+,2000,7,27,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,T,2,1,,,,,,,,,2,1,,,,,,,,
+,2000,11,,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,A,1,1,,,,,,,,,1,1,,,,,,,,
+,2001,8,5,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,2,P,2,1,,,,,,,,,2,1,,,,,,,,
+,2002,1,3,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,3,M,,,,,,,,1,,1,,,,,,,,1,,1
+,2002,,,,,Semeru,Java,Indonesia,-8.108,112.922,3657,Stratovolcano,3,T,3,1,,,,,,,,,3,1,,,,,,,,
+,2004,1,29,,,Egon,Lesser Sunda Is,Indonesia,-8.676,122.455,1661,Stratovolcano,1,T,1,1,,,,,,,,,1,1,,,,,,,,
+,2004,6,8,,,Tengger Caldera,Java,Indonesia,-7.942,112.95,2329,Stratovolcano,2,T,2,1,,,5,1,,,,,,,,,,,,,,
+,2004,10,24,,,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4,T,5,1,,,,,,,,,5,1,,,,,,,,
+,2005,1,27,,,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4,T,1,1,,,14,1,,,,,1,1,,,14,1,,,,
+,2005,11,24,,,Karthala,Indian O-W,Comoros,-11.75,43.38,2361,Shield volcano,,,,1,,,,,,1,,,,1,,,,,,1,,
+,2006,6,7,,,Bulusan,Luzon-Philippines,Philippines,12.769,124.056,1535,Stratovolcano,2,,1,1,,,,,,,,,1,1,,,,,,,,
+,2006,6,14,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,1,,2,1,,,,,,,,,2,1,,,,,,,,
+,2006,11,30,,,Mayon,Luzon-Philippines,Philippines,13.257,123.685,2462,Stratovolcano,1,m,1266,4,,,,,,1,,,1266,4,,,,,,1,,
+,2007,3,,,,Manam,New Guinea-NE of,Papua New Guinea,-4.08,145.037,1807,Stratovolcano,4,M,4,1,,,1,1,,,,,4,1,,,1,1,,,,
+,2007,5,19,5758,,Ritter Island,New Guinea-NE of,Papua New Guinea,-5.519,148.115,75,Stratovolcano,1,"A,W",,,,,,,,1,,1,,,,,,,,1,,1
+,2007,7,7,,,Salak,Java,Indonesia,-6.716,106.733,2218,Stratovolcano,,G,6,1,,,,,,,,,6,1,,,,,,,,
+,2007,9,30,,,"Tair, Jebel at",Red Sea,Yemen,15.55,41.83,244,Stratovolcano,,,7,1,,,1,1,,,,,7,1,,,,1,,,,
+,2010,5,29,4822,9172,Zealandia Bank,Mariana Is-C Pacific,United States,16.88,145.85,0,Stratovolcano,,,,,,,,,,,,,,,,,,,,,,
+,2010,8,6,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,3,,4,1,,,5,1,,,,1,4,1,,,5,1,,,,1
+,2010,8,30,,,Sinabung,Sumatra,Indonesia,3.17,98.392,2460,Stratovolcano,,,2,1,,,,,,,,,2,1,,,,,,,,
+,2010,10,26,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,,,367,3,,,277,3,600,4,,3,367,3,,,277,3,600,4,,3
+,2010,12,28,,,Tengger Caldera,Java,Indonesia,-7.942,112.95,2329,Stratovolcano,,,,,,,,,,1,,,,,,,,,,,,
+,2011,1,3,,,Merapi,Java,Indonesia,-7.54,110.446,2910,Stratovolcano,,M,1,1,,,1,1,,1,,,1,1,,,1,1,,1,,
+,2011,2,23,,,Bulusan,Luzon-Philippines,Philippines,12.769,124.056,1535,Stratovolcano,2,,1,1,,,,,,,,,1,1,,,,,,,,
+,2011,3,18,,,Karangetang,Sangihe Is-Indonesia,Indonesia,2.781,125.407,1797,Stratovolcano,,,,,,,,,,1,,,,,,,,,,1,,
+,2011,6,22,,,Nabro,Africa-NE,Eritrea,13.37,41.7,2218,Stratovolcano,4,,31,1,,,,3,,1,,,31,1,,,,3,,1,,
+,2011,7,17,,,Lokon-Empung,Sulawesi-Indonesia,Indonesia,1.358,124.792,1580,Stratovolcano,,,1,1,,,,,,,,,1,1,,,,,,,,
+,2011,12,27,,,Gamalama,Halmahera-Indonesia,Indonesia,0.81,127.332,1714,Stratovolcano,3,m,4,1,,,,1,,,,,4,1,,,,1,,,,
