@@ -1,2 +1,3 @@
 # NTU-FYP
-The code here supports the findings of my FYP - Reconstructing Indo-Pacific Hydroclimate Variability Over the Last 2000 Years Using Water Isotope Records
+The code here supports the findings of my FYP - A 2000-Year Reconstruction of Indo-Pacific Hydroclimate Variability Inferred from Water Isotope Records
+
